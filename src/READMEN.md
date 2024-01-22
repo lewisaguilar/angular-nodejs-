@@ -1,3 +1,4 @@
-// este programa consta de 3 programas login - lista de empleados  - subir fotos 
+// Este programa consta de 3 programas login 
+//- lista de empleados - subir fotos 
 
-hecho en node js  - bases de datos Mysql 
+//hecho en node js  - bases de datos Mysql 
